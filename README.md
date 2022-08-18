@@ -26,6 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Useful resources
 
 - [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - This helped me for center qr div.
+- [Shadow examples](https://getcssscan.com/css-box-shadow-examples) - This helped me find the right shadow quickly.
 
 ## Author
 
